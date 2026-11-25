@@ -33,6 +33,31 @@ html,
     margin-top: 36px;
 }
 
+
+/* Foto da turma */
+.about-class-photo {
+    width: 86%;
+    max-width: 1100px;
+    margin: 70px auto 100px;
+    text-align: center;
+}
+
+.about-class-photo img {
+    display: block;
+    width: 100%;
+    max-height: 550px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.about-class-photo p {
+    font-family: 'Poppins';
+    font-size: 14px;
+    color: #424159;
+    margin-top: 16px;
+}
+
+
 .about-content {
     display: flex;
     align-items: center;

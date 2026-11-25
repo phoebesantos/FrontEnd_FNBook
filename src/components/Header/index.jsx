@@ -7,7 +7,7 @@ export default function Header() {
     return (
         <div className="header-container">
             <h1 className="title-header">Fake News Book</h1>
-            <p className="header-subtitle">Menos fofoca,<span> mais Fatos</span></p>
+            <p className="header-subtitle">menos FOFOCA,  <span>mais FATOS</span></p>
             <p className="header-lide">Fique por dentro das principais notícias do
                 momento e tenha certeza que elas não são fake</p>
             <img src={Line1} className="line-1" />

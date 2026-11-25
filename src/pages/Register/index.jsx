@@ -8,7 +8,7 @@ export default function Register() {
       <div className="image">
         <div className="image-tittle">
           <h1>Fake News Book</h1>
-          <p>o seu <span>portal da verdade</span></p>
+          <p>menos FOFOCAS, <span>mais FATOS</span></p>
         </div>
       </div>
       <div className="main-container-content">
